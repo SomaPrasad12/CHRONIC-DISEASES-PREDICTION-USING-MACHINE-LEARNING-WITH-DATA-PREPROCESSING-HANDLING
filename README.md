@@ -1,0 +1,2 @@
+# CHRONIC-DISEASES-PREDICTION-USING-MACHINE-LEARNING-WITH-DATA-PREPROCESSING-HANDLING
+Developed a hybrid CNN–Vision Transformer model for chronic disease prediction. Applied data preprocessing to handle missing values, outliers, noise, and imbalanced datasets. Combined CNN feature extraction and ViT attention mechanisms to identify complex patterns and improve prediction accuracy and reliability for early disease detection.
